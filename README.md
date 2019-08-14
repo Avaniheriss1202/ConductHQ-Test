@@ -2,7 +2,6 @@
 ConductHQ Test
 Candidate Name: Avani Heriss 
 avaniheriss1202@gmail.com
-0416179488
 Logic:
 
 	Check If there any new Agent Registered Or only active agent
